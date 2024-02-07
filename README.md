@@ -30,6 +30,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sharvan-verma&limit=5&theme=flat&combine_all_yearly_contributions=true)
-### MY GItHub Contributions
-![Snake animation](https://github.com/sharvan-verma/sharvan-verma/blob/output/github-contribution-grid-snake.svg)
 
