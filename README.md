@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **app-Develeopment & Cyber-Security**
+- 💬 Ask me about **Web-Develeopment & Cyber-Security**
 
 - 📫 How to reach me **sharvanverma417@gmail.com**
 
