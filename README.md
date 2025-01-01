@@ -5,7 +5,7 @@
 
 <p align="left" img src="https://komarev.com/ghpvc/?username=sharvan-verma&label=Profile%20views&color=0e75b6&style=flat" alt="sharvan-verma" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **app-Develeopment & Cyber-Security**
 
