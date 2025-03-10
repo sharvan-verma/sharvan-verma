@@ -1,33 +1,86 @@
 <h1 align="center">Hi 👋, I'm Sharvan Kumar Verma</h1>
 
-<h3 align="center">A passionate about App-Development & Cyber-Security from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left" img src="https://komarev.com/ghpvc/?username=sharvan-verma&label=Profile%20views&color=0e75b6&style=flat" alt="sharvan-verma" /> </p>
-
-- 🌱 I’m currently learning **Cyber Security**
-
-- 💬 Ask me about **Web-Develeopment & Cyber-Security**
-
-- 📫 How to reach me **sharvanverma417@gmail.com**
-
-- ⚡ Fun fact **My keyboard is my weapon of choice, fighting for secure apps and a safer digital world. Join the battle?"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharvanverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharvanverma" height="30" width="40" /></a>
-<a href="https://instagram.com/iamsharvanverma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsharvanverma21" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharvan-verma&label=Profile%20views&color=0e75b6&style=flat" alt="sharvan-verma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  🌐 Aspiring Cybersecurity Engineer | Full Stack Developer
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvan-verma&show_icons=true&locale=en&layout=compact" alt="sharvan-verma" /></p>
+<p align="center">
+  🎓 BCA Student | 2nd Year @Geeta University
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvan-verma&show_icons=true&locale=en" alt="sharvan-verma" /></p>
+<p align="center">
+  💼 Former Cybersecurity Intern @Hacktify
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvan-verma&" alt="sharvan-verma" /></p>
+<p align="center">
+  💡 Passionate About Cybersecurity Analysis, Digital Forensics, Incident Response, Cyber Investigation, Compliance & Audit, and Web Development.
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharvan-verma&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">
+  🎯 Career Vision: To become a versatile Cybersecurity Engineer, ensuring robust security frameworks in an ever-evolving tech landscape.
+</p>
 
+<p align="center">
+  🏸 Beyond Tech: A badminton enthusiast with a sharp focus, punctuality, and exceptional communication skills.
+</p>
+
+<p align="center">
+  🚀 Driven by an insatiable curiosity for emerging technologies and a relentless passion for learning.
+</p>
+
+<p align="center">
+  ⚡ Fun fact: My keyboard is my weapon of choice, fighting for secure apps and a safer digital world. Join the battle?
+</p>
+
+<h3 align="left">About Me:</h3>
+
+<p align="left">
+  I'm Sharvan Kumar Verma, a dedicated BCA student with a strong foundation in cybersecurity and full-stack web development. My experience as a Cybersecurity Intern at Hacktify has equipped me with practical skills in penetration testing, ethical hacking, and security analysis. I thrive on exploring new technologies and applying them to solve real-world security challenges.
+</p>
+
+<h3 align="left">Skills:</h3>
+
+<ul>
+  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Network Security, Digital Forensics, Incident Response, Compliance & Audit</li>
+  <li><strong>Programming:</strong> C, C++, Python, JavaScript</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Node.js, Bootstrap</li>
+  <li><strong>Operating Systems:</strong> Linux (Proficient)</li>
+  <li><strong>Tools:</strong> Nmap, Burp Suite, Metasploit, Maltego, Wireshark, Angry IP Scanner, and more</li> 
+</ul>
+
+<h3 align="left">Areas of Interest:</h3>
+
+<ul>
+  <li>Cybersecurity</li>
+  <li>Web Development</li>
+</ul>
+
+<h3 align="left">Certifications:</h3>
+
+<ul>
+  <li>Certified Ethical Hacker (CEH)</li> 
+  </ul>
+
+<h3 align="left">Projects:</h3>
+
+<p align="left">
+  (Projects will be added here. Stay tuned!)
+</p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharvanverma" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+</p>
+
+<p align="left">
+  <a href="mailto:sharvanverma417@gmail.com">
+    <img src="https://img.shields.io/badge/-sharvanverma417@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
