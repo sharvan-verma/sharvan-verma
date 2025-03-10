@@ -45,8 +45,8 @@
 <h3 align="left">Skills:</h3>
 
 <ul>
-  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Network Security, Digital Forensics, Incident Response, Compliance & Audit</li>
-  <li><strong>Programming:</strong> C, C++, Python, JavaScript</li>
+  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Digital Forensics, Incident Response || Excellence in Networking</li>
+  <li><strong>Programming:</strong> C, C++, Python</li>
   <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Node.js, Bootstrap</li>
   <li><strong>Operating Systems:</strong> Linux (Proficient)</li>
   <li><strong>Tools:</strong> Nmap, Burp Suite, Metasploit, Maltego, Wireshark, Angry IP Scanner, and more</li> 
@@ -55,7 +55,11 @@
 <h3 align="left">Areas of Interest:</h3>
 
 <ul>
-  <li>Cybersecurity</li>
+  <li>Cybersecurity Analysis</li>
+  <li>Digital Forensics</li>
+  <li>Incident Response</li>
+  <li>Cyber Investigation</li>
+  <li>Compliance & Audit</li>
   <li>Web Development</li>
 </ul>
 
@@ -63,7 +67,7 @@
 
 <ul>
   <li>Certified Ethical Hacker (CEH)</li> 
-  </ul>
+</ul>
 
 <h3 align="left">Projects:</h3>
 
@@ -77,6 +81,14 @@
   <a href="https://www.linkedin.com/in/sharvanverma" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
+
+  <a href="https://facebook.com/your_facebook_username" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://twitter.com/your_twitter_username" target="_blank">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
 </p>
 
 <p align="left">
