@@ -16,36 +16,17 @@
   💼 Former Cybersecurity Intern @Hacktify
 </p>
 
-<p align="center">
-  💡 Passionate About Cybersecurity Analysis, Digital Forensics, Incident Response, Cyber Investigation, Compliance & Audit, and Web Development.
-</p>
-
-<p align="center">
-  🎯 Career Vision: To become a versatile Cybersecurity Engineer, ensuring robust security frameworks in an ever-evolving tech landscape.
-</p>
-
-<p align="center">
-  🏸 Beyond Tech: A badminton enthusiast with a sharp focus, punctuality, and exceptional communication skills.
-</p>
-
-<p align="center">
-  🚀 Driven by an insatiable curiosity for emerging technologies and a relentless passion for learning.
-</p>
-
-<p align="center">
-  ⚡ Fun fact: My keyboard is my weapon of choice, fighting for secure apps and a safer digital world. Join the battle?
-</p>
-
-<h3 align="left">About Me:</h3>
-
-<p align="left">
-  I'm Sharvan Kumar Verma, a dedicated BCA student with a strong foundation in cybersecurity and full-stack web development. My experience as a Cybersecurity Intern at Hacktify has equipped me with practical skills in penetration testing, ethical hacking, and security analysis. I thrive on exploring new technologies and applying them to solve real-world security challenges.
-</p>
+<details open>
+  <summary>💡 More About Me</summary>
+  <p align="left">
+    I'm Sharvan Kumar Verma, a dedicated BCA student with a strong foundation in cybersecurity and full-stack web development. My experience as a Cybersecurity Intern at Hacktify has equipped me with practical skills in penetration testing, ethical hacking, and security analysis. I thrive on exploring new technologies and applying them to solve real-world security challenges.  Beyond the tech world, I'm a badminton enthusiast with a sharp focus, punctuality, and exceptional communication skills. Driven by an insatiable curiosity for emerging technologies and a relentless passion for learning. 
+  </p>
+</details>
 
 <h3 align="left">Skills:</h3>
 
 <ul>
-  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Digital Forensics, Incident Response || Excellence in Networking</li>
+  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Digital Forensics, Incident Response || <strong>Excellence in Networking</strong></li>
   <li><strong>Programming:</strong> C, C++, Python</li>
   <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Node.js, Bootstrap</li>
   <li><strong>Operating Systems:</strong> Linux (Proficient)</li>
@@ -81,18 +62,11 @@
   <a href="https://www.linkedin.com/in/sharvanverma" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-
-  <a href="https://facebook.com/your_facebook_username" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="https://youtube.com/your_youtube_channel_id" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-
-  <a href="https://twitter.com/your_twitter_username" target="_blank">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-</p>
-
-<p align="left">
   <a href="mailto:sharvanverma417@gmail.com">
     <img src="https://img.shields.io/badge/-sharvanverma417@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
+
 </p>
