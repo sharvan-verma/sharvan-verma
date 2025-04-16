@@ -36,6 +36,7 @@
 <h3 align="left">Areas of Interest:</h3>
 
 <ul>
+  <li>cybersecurity Trainer</li>
   <li>Cybersecurity Analysis</li>
   <li>Digital Forensics</li>
   <li>Incident Response</li>
