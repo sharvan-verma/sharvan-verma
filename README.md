@@ -91,7 +91,10 @@
 
 🎓 Certified Ethical Hacker (CEH)  
 🎓 Google Cybersecurity Professional Certificate  
-🎓 Certified Cybersecurity Educator (CCEP)
+🎓 Certified Cybersecurity Educator (CCEP)  
+🎓 Digital Personal Data Protection Act (DPDPA) 2023 – Compliance & Awareness  
+🎓 ISO/IEC 27001:2022 Lead Auditor  
+🎓 Certified Red Team Operations Management (CRTOM)  
 
 ---
 
