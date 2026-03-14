@@ -1,73 +1,147 @@
-<h1 align="center">Hi 👋, I'm Sharvan Kumar Verma</h1>
+<h1 align="center">👋 Hi, I'm Sharvan Kumar Verma</h1>
+
+<h3 align="center">
+🔐 Cybersecurity Enthusiast | 💻 Full Stack Developer | 🛡️ Ethical Hacker
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharvan-verma&label=Profile%20views&color=0e75b6&style=flat" alt="sharvan-verma" />
-</p>
-
-<p align="center">
-  🌐 Aspiring Cybersecurity Engineer | Full Stack Developer
-</p>
-
-<p align="center">
-  🎓 BCA Student | 2nd Year @Geeta University
+🎓 BCA Final Year Student | Passionate about Cyber Defense & Secure Systems
 </p>
 
 <p align="center">
-  💼 Former Cybersecurity Intern @Hacktify
+<img src="https://komarev.com/ghpvc/?username=sharvan-verma&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
-<details open>
-  <summary>💡 More About Me</summary>
-  <p align="left">
-    I'm Sharvan Kumar Verma, a dedicated BCA student with a strong foundation in cybersecurity and full-stack web development. My experience as a Cybersecurity Intern at Hacktify has equipped me with practical skills in penetration testing, ethical hacking, and security analysis. I thrive on exploring new technologies and applying them to solve real-world security challenges.  Beyond the tech world, I'm a badminton enthusiast with a sharp focus, punctuality, and exceptional communication skills. Driven by an insatiable curiosity for emerging technologies and a relentless passion for learning. 
-  </p>
-</details>
+---
 
-<h3 align="left">Skills:</h3>
+# 🚀 About Me
 
-<ul>
-  <li><strong>Cybersecurity:</strong> OSINT, Web Penetration Testing, Digital Forensics, Incident Response || <strong>Excellence in Networking</strong></li>
-  <li><strong>Programming:</strong> C, C++, Python</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, React, Node.js, Bootstrap</li>
-  <li><strong>Operating Systems:</strong> Linux (Proficient)</li>
-  <li><strong>Tools:</strong> Nmap, Burp Suite, Metasploit, Maltego, Wireshark, Angry IP Scanner, and more</li> 
-</ul>
+🔹 Cybersecurity enthusiast focused on **penetration testing and security analysis**
 
-<h3 align="left">Areas of Interest:</h3>
+🔹 Former **Cybersecurity Intern at Hacktify**
 
-<ul>
-  <li>cybersecurity Trainer</li>
-  <li>Cybersecurity Analysis</li>
-  <li>Digital Forensics</li>
-  <li>Incident Response</li>
-  <li>Cyber Investigation</li>
-  <li>Compliance & Audit</li>
-  <li>Web Development</li>
-</ul>
+🔹 Passionate about **ethical hacking, digital forensics, and cyber investigation**
 
-<h3 align="left">Certifications:</h3>
+🔹 Interested in **training people in cybersecurity awareness**
 
-<ul>
-  <li>Certified Ethical Hacker (CEH)</li> 
-</ul>
+🔹 I enjoy solving **real-world security challenges and vulnerabilities**
 
-<h3 align="left">Projects:</h3>
+🔹 Fun fact: 🏸 I love **badminton and cybersecurity labs**
 
-<p align="left">
-  (Projects will be added here. Stay tuned!)
+---
+
+# 🛡️ Cybersecurity Skills
+
+✔ OSINT Investigation  
+✔ Web Application Penetration Testing  
+✔ Digital Forensics  
+✔ Incident Response  
+✔ Networking Fundamentals  
+✔ Vulnerability Assessment  
+
+---
+
+# 💻 Programming & Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,html,css,bootstrap" />
+
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sharvanverma" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="https://youtube.com/your_youtube_channel_id" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:sharvanverma417@gmail.com">
-    <img src="https://img.shields.io/badge/-sharvanverma417@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
+# 🧰 Cybersecurity Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,git,bash" />
+
+</p>
+
+🔹 Nmap  
+🔹 Burp Suite  
+🔹 Metasploit  
+🔹 Wireshark  
+🔹 Maltego  
+🔹 Angry IP Scanner  
+
+---
+
+# 🐧 Operating Systems
+
+✔ Linux (Advanced Usage)  
+✔ Windows Security Environment  
+
+---
+
+# 🎯 Areas of Interest
+
+🛡 Cybersecurity Trainer  
+🔍 Security Analyst  
+📂 Digital Forensics  
+🚨 Incident Response  
+🕵️ Cyber Investigation  
+📋 Security Compliance & Audit  
+🌐 Secure Web Development  
+
+---
+
+# 📜 Certifications
+
+🎓 Certified Ethical Hacker (CEH)  
+🎓 Google Cybersecurity Professional Certificate  
+🎓 Certified Cybersecurity Educator (CCEP)
+
+---
+
+# 🧪 Projects
+
+🚧 Cybersecurity Projects Coming Soon  
+
+Possible projects:
+
+🔹 Ransomware Simulator (Educational)  
+🔹 Email Phishing Simulation Tool  
+🔹 Password Strength Analyzer  
+🔹 Cyber Hygiene Toolkit  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharvan-verma&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvan-verma&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/sharvanverma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/your_youtube_channel_id">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:sharvanverma417@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ <b>"Security is not a product, it's a process." – Bruce Schneier</b>
 
 </p>
