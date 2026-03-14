@@ -145,6 +145,6 @@ Possible projects:
 
 <p align="center">
 
-⭐ <b>"Security is not a product, it's a process." – Bruce Schneier</b>
+⭐ <b>Security is not a product, it's a process. – Bruce Schneier</b>
 
 </p>
